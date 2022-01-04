@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  width: 102%;
+  background-color: #6a3eaa;
+}
+
+img {
+}
+
+.one {
+  background: #6a3eaa;
+
+}
+.two {
+  text-align: center;
+}
+
+.instaback {
+  background-color: white;
+}
+.textcenter {
+  text-align: center;
+}
+
+.profilepicture {
+  width: 100%;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.halfwidth {
+  width: 100%;
+}
+
+.col-6 {
+  padding: 0 0 0 0;
+}
+
+.t {
+  height: 150px;
+  background-image: linear-gradient(#6440a4,#3b0000);
+}
+
+.y {
+  height: 150px;
+  background-image: linear-gradient(#3b0000,#f1f2f9);
+}
+
+.d {
+  height: 150px;
+  background-image: linear-gradient(#f1f2f9,#f1f2f9);
+}
